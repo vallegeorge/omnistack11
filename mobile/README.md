@@ -7,3 +7,12 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 npm install @react-navigation/stack
 
 expo install constants
+
+--- botão enviar email
+expo install expo-mail-composer
+
+--- para fazer as chamadas
+npm install axios
+
+-- para as formatações de numeros (real)
+npm install intl
